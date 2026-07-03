@@ -34,7 +34,7 @@ export const site = {
   facebook: "https://facebook.com/",
 
   // SEO
-  url: "https://voltio-electricidad.vercel.app",
+  url: "https://demo-electricista-v1.ideawebx.com",
   locale: "es_AR",
 };
 
